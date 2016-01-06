@@ -1,0 +1,3 @@
+to begin a server
+
+php -S localhost:9000
