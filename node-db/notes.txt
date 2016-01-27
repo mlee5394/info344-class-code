@@ -31,3 +31,6 @@ exit // exits sql
 
 exit
 vagrant halt
+
+
+mysql -u root < sql/schema.sql
