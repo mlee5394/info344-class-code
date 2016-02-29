@@ -66,3 +66,5 @@ func main() {
 	fmt.Println("Server listening on port 9000...");
 	http.ListenAndServe(":9000", nil);
 }
+
+// curl http://www.unitedstateszipcodes.org/zip_code_database.csv>zipcodedb.csv
