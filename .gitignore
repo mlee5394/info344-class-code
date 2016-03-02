@@ -17,3 +17,6 @@ typings
 
 # ignore .key files
 *.key
+
+# ignore goparallel/data
+goparallel/data
